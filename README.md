@@ -81,6 +81,6 @@ Once the data is cleaned, you can run insightful queries like:
 
 ---
 ### Author
-Your Name | [GitHub Profile](https://github.com/yourusername)  
+Omar Zain | [GitHub Profile](https://github.com/omarzain27)  
 Feel free to contribute or report any issues!
 
